@@ -8,6 +8,7 @@
 ## 설정 번역 문서
 
 * [Core](./settings/core.md)
+* [Editor](./settings/editor.md)
 
 ## 단축키 리스트
 
