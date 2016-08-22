@@ -12,7 +12,7 @@
 
 ## 단축키 리스트
 
-[WIP]
+* [Windows](./shortcuts/windows.md)
 
 ## 유용한 패키지들
 
