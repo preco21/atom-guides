@@ -9,7 +9,6 @@
 
 * [Core](./settings/core.md)
 * [Editor](./settings/editor.md)
-* [Invisibles](./settings/invisibles.md)
 * [System](./settings/system.md) (플랫폼에 따라 다를 수 있음)
 
 ## 단축키 리스트
