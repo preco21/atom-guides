@@ -9,6 +9,7 @@
 
 * [Core](./settings/core.md)
 * [Editor](./settings/editor.md)
+* [Invisibles](./settings/invisibles.md)
 
 ## 단축키 리스트
 
