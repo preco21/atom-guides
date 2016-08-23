@@ -9,11 +9,8 @@
 
 * [Core](./settings/core.md)
 * [Editor](./settings/editor.md)
-<<<<<<< HEAD
 * [Invisibles](./settings/invisibles.md)
-=======
 * [System](./settings/system.md) (플랫폼에 따라 다를 수 있음)
->>>>>>> refs/remotes/preco21/master
 
 ## 단축키 리스트
 
