@@ -1,10 +1,10 @@
 ## Editor Settings (에디터 설정)
 
 > (!) 이 환경 설정은 문서 편집과 관련이 있습니다. 몇몇 설정은 언어의 이유로 무시될 수
-> 있습니다. 언어 설정을 Packages Lists에서 언어의 일괄 프로그램이 있는지 클릭하여
+> 있습니다. 언어 설정을 [Packages Lists]에서 언어의 일괄 프로그램이 있는지 클릭하여
 > 확인합니다.
 
-### Atomic Soft Tabs (어톰의 부드러운 탭들)
+### Atomic Soft Tabs (간소화한 Soft 탭)
 
 커서를 움직일 때, 탭 길이가 여백이 따라가는 것의 실행을 무시해줍니다.
 
@@ -21,12 +21,12 @@
 만약 I/O 에러가 있더라도 일시적인 백업 복사본을 만들어서, 파일 내용들이 반드시
 잃어버리지 하게 않게합니다.
 
-### Confirm Checkout HEAD Revision (HEAD 수정 확인을 허용)
+### Confirm Checkout HEAD Revision (HEAD 수정 확인 허용)
 
 HEAD 수정을 확인하고 마지막 커밋을 한 때로부터 지금까지 바꾼 변화를 버릴 때,
 다이얼로그 확인을 보여줍니다.
 
-### Font Family (폰트 가족)
+### Font Family (폰트 패밀리)
 
 문서 편집을 위해 쓸 폰트 패밀리 이름을 적어줍니다.
 
