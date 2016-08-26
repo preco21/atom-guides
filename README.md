@@ -10,6 +10,10 @@
 * [Core](./settings/core.md)
 * [Editor](./settings/editor.md)
 * [System](./settings/system.md) (플랫폼에 따라 다를 수 있음)
+* [Packages](./settings/packages.md)
+* [Themes](./settings/themes.md)
+* [Updates](./settings/updates.md)
+* [Installs](./settings/installs.md)
 
 ## 단축키 리스트
 
