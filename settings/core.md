@@ -1,6 +1,6 @@
 ## Core Settings
 
-> :grey_question: 이 설정은 텍스트 편집과 관계 없는 동작에 관한 Atom 에디터의 코어
+> :grey_question: 이 설정은 텍스트 편집과 관계 없는 동작에 관한 Atom Editor의 코어
 > 설정입니다. 몇몇 패키지는 해당 패키지만의 추가적인 설정을 가지고 있을 수 있으며
 > `Package list`의 패키지 카드에서 찾을 수 있습니다.
 
