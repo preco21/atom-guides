@@ -31,3 +31,7 @@
 
 새로운 PR은 언제나 환영입니다. 오타, 오역을 수정하거나 문서를 보완해서 부족한 부분을
 채워주세요!
+
+## License
+
+[MIT](http://preco.mit-license.org/)
