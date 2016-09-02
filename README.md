@@ -19,13 +19,19 @@
 
 * [Windows](./shortcuts/windows.md)
 
-## 유용한 패키지들
-
-[WIP]
-
 ## 팁
 
-[WIP]
+* [Re: 제로부터 시작하는 Atom 생활](./tips/re-zero-starting-life-in-atom.md)
+* [각 언어에 대한 Atom 개발 환경 갖추기]() [WIP]
+* [Atom을 덕스럽게 꾸미기]() [WIP]
+
+## FAQ
+
+자주 묻는 질문은 [이곳](./base/faq.md)에서 볼 수 있습니다.
+
+## 유용한 패키지
+
+유용한 패키지 리스트는 [이곳](./base/packages.md)에서 볼 수 있습니다.
 
 ## 기여하기
 
