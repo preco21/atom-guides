@@ -1,4 +1,4 @@
-# Editor Settings (에디터 설정)
+## Editor Settings (에디터 설정)
 
 > :grey_question: 이 환경 설정은 문서 편집과 관련이 있습니다. 몇몇 설정은 각 언어
 > 설정에 따라 덮어씌어질 수 있습니다. `Packages list`에서 패키지 카드를 선택하여

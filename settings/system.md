@@ -1,4 +1,4 @@
-# System Settings
+## System Settings
 
 > :grey_question: 이 설정은 Atom이 운영체제에 대한 통합을 수행하는 방법을 지정합니다.
 
