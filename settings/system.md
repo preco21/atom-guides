@@ -1,6 +1,6 @@
 ## System Settings
 
-> :grey_question: 이 설정은 Atom Editor가 운영체제에 대한 통합을 수행하는 방법을  지정합니다.
+> :grey_question: 이 설정은 Atom Editor가 운영체제에 대한 통합을 수행하는 방법을 지정합니다.
 
 ### Register as file handler (파일 핸들러로 등록)
 
